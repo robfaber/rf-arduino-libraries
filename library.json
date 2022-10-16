@@ -1,0 +1,13 @@
+{
+    "name": "rf-arduino-library",
+    "version": "1.0.0",
+    "keywords": "SSD1306, IR2101, IR2104, ACS712",
+    "description": "C++ based libraries for common devices",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/robfaber/rf-arduino-libraries.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr",
+    "dependencies": []
+}
